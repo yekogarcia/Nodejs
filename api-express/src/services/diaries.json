@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "date": "2024-03-22",
+    "weather": "sunny",
+    "visibility": "good",
+    "comment": "Prueba"
+  },
+  {
+    "id": 2,
+    "date": "2024-03-22",
+    "weather": "sunny",
+    "visibility": "good",
+    "comment": "Prueba"
+  },
+  {
+    "id": 3,
+    "date": "2024-03-22",
+    "weather": "sunny",
+    "visibility": "good",
+    "comment": "Prueba"
+  },
+  {
+    "id": 4,
+    "date": "2024-03-22",
+    "weather": "sunny",
+    "visibility": "good",
+    "comment": "Prueba"
+  },
+  {
+    "id": 5,
+    "date": "2024-03-22",
+    "weather": "sunny",
+    "visibility": "good",
+    "comment": "Prueba"
+  }
+]
